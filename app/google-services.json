@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463346441558",
+    "project_id": "kotlininternetnotification",
+    "storage_bucket": "kotlininternetnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463346441558:android:867da4b06d585d89e20af7",
+        "android_client_info": {
+          "package_name": "com.ismailmesutmujde.kotlinfirebaseinternetnotificationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHwsiyLQ2rrdRPhGE8N8fPWGGBbeGnLaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
